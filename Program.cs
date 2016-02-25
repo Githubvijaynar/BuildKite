@@ -10,7 +10,9 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
+			string str = "hello";
             Console.WriteLine(string.Format("{0} {1} {3}","Hello","Vijay","World"));
+			Console.WriteLine(str);
             Console.ReadLine();
         }
     }
