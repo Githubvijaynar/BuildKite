@@ -13,6 +13,7 @@ namespace ConsoleApplication1
 	    string str = "hello";
             Console.WriteLine(string.Format("{0} {1} {3}","Hello","Vijay","World"));
 	    Console.WriteLine(str);
+	    Console.WriteLine("I Love Coding");
             Console.ReadLine();
         }
     }
